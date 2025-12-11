@@ -1,0 +1,15 @@
+pandas
+numpy
+requests
+beautifulsoup4
+tqdm
+matplotlib
+seaborn
+openpyxl
+duckdb
+duckdb-engine
+jupysql
+geopandas
+GeoAlchemy2
+shapely
+googlemaps
